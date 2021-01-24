@@ -1,12 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/neural_network.webp"
+  bg_image: ''
   icon: ''
   title: Patrick Rudgéri
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: Entusiasta de Data Science e Machine Learning
   button:
     enable: true
     label: Explore Us
