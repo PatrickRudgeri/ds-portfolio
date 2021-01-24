@@ -8,5 +8,5 @@ banner:
   content: Entusiasta de Data Science e Machine Learning
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Meu Portfólio
+    link: "#portfolio"
