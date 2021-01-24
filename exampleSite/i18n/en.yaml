@@ -2,19 +2,19 @@
 - id: blogTitle
   translation: Ultimos Posts
 - id: readMore
-  translation: Read more
+  translation: Ver mais
 - id: viewAllPost
-  translation: View All Post
+  translation: Ver todos os posts
 - id: share
   translation: Compartilhar
 - id: aboutAuthor
-  translation: About author
+  translation: Sobre o Autor
 - id: authorsPosts
   translation: Author's posts
 - id: all
   translation: All
 - id: about
-  translation: About Us
+  translation: Sobre
 - id: services
   translation: Service
 - id: portfolio
@@ -26,6 +26,4 @@
 - id: blog
   translation: Blog
 - id: contact
-  translation: Contact
-- id: themefisher
-  translation: Themefisher
+  translation: Contato
