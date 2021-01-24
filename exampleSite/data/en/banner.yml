@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
-  bg_image: ''
+  bg_image_webp: "/images/neural_network_2.webp"
+  bg_image: "/images/neural_network_2.jpeg"
   icon: ''
   title: Patrick Rudgéri
   content: Entusiasta de Data Science e Machine Learning
