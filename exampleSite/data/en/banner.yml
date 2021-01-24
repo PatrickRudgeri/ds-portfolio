@@ -1,7 +1,7 @@
 ---
 banner:
-  enable: false
-  bg_image_webp: "/images/neural_network.webp"
+  enable: true
+  bg_image_webp: ''
   bg_image: ''
   icon: ''
   title: Patrick Rudgéri
